@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Place extends Object{
+public class Place implements Object{
 	private String placeName;
 	private Raider placeRaider;
 	private Consumable[] placeStash = new Consumable[3];

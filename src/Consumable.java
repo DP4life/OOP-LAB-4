@@ -1,4 +1,4 @@
-public class Consumable extends Object{
+public class Consumable implements Object{
 	private String name;
 	private int effect;
 	private int radiationEffect;

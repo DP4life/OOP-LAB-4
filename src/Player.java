@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Player extends Object{
+public class Player implements Object{
 	private int maxHealth = 100;
 	private int health;
 

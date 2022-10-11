@@ -1,3 +1,3 @@
-public class Object {
+public interface Object {
 	
 }

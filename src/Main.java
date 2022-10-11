@@ -19,7 +19,7 @@ public class Main {
         player.TakeBreak();
         convinienceStore.Discover(player);
         player.TakeBreak();
-        mutandDog.Combat(player);
+        mutandDog.Interaction(player);
         player.TakeBreak();
 
 

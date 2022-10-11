@@ -12,6 +12,8 @@ Enemy <|-- Mutant
 Consumable <|-- Food 
 Consumable <|-- Drink 
 Consumable <|-- Medicine
+
+interface Object
 interface Creature{
 	+ Interaction()
 }

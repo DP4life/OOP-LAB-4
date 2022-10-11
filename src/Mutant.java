@@ -6,7 +6,7 @@ public class Mutant extends Enemy{
 		setBaseDamage(_baseDamage);
 	}
 
-	public void Combat(Player _player){
+	public void Interaction(Player _player){
 		System.out.println("============================================================");
 		System.out.println("> You get attacked by a " + GetName() + "!");
 		int damageMultiplier;
